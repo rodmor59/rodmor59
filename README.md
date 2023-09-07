@@ -6,7 +6,7 @@ I am a Software Engineer with 22+ years of experience taking on complex challeng
 :white_check_mark: Language: JavaScript, Solidity, HTML, CSS, SQL  
 :cloud: Backend: Node.js, Express.js  
 :desktop_computer: Front-End: React    
-:information_source: Database:  MongoDB, SQL Server
+:information_source: Database:  MongoDB, SQL Server  
 :potted_plant: Version Control:  Git, Github  
 :file_folder: IDES's:  Visual Studio Code.  
 :office: Infrastructure: Configure and deploy MERN apps to CentOS 8 environments.
