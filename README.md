@@ -51,8 +51,7 @@ Frameworks & Libraries:
 
         
 ### :iphone: Reach me on:
-[My LinkedIn Profile](https://www.linkedin.com/in/ricartrodrig/)  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Ricardo's Linkedin Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricartrodrig)
 
 <!--
 **rodmor59/rodmor59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
