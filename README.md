@@ -6,6 +6,9 @@ In my early career, I worked as a consultant and project manager. As a result, I
 
 Above all, I prioritize continuously improving the codebases I work on, looking for ways to refactor, and seeking new libraries, frameworks and practices to integrate.
 
+### :rocket: Check Out My REST API Demo:
+Check out this [Node Express REST-API Demo](https://github.com/rodmor59/node-express-rest-api-demo) I put together to serve as a starting point for developing Restful APIS with Node and to showcase project structuring and code practices.
+
 ### :gear: My Skills: 
 :white_check_mark: Language:  
     ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
