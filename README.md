@@ -6,8 +6,10 @@ In my early career, I worked as a consultant and project manager. As a result, I
 
 Above all, I prioritize continuously improving the codebases I work on, looking for ways to refactor, and seeking new libraries, frameworks and practices to integrate.
 
-### :rocket: Check Out My REST API Demo:
-Check out this [Node Express REST-API Demo](https://github.com/rodmor59/node-express-rest-api-demo) I put together to serve as a starting point for developing Restful APIS with Node and to showcase project structuring and code practices. Also, check out the [Node Express REST-API user authorization microservice](https://github.com/rodmor59/node-express-user-auth-microservice) that I am building.
+### :rocket: Check Out My Repos:
+* [Node Express REST-API Demo](https://github.com/rodmor59/node-express-rest-api-demo): Starting point for developing Restful APIS with Node and showcasing project structuring and code practices.
+* [Node Express REST-API user authorization microservice](https://github.com/rodmor59/node-express-user-auth-microservice): A complete range of features for handling user access, such as registration, login, user profile modification and removal, authorization verifications, and password recovery.
+* [React TypeScript Demo](https://github.com/rodmor59/react-typescript-demo): Set of React components that demonstrates TypeScript features, including basic and advanced typing, event and style props, React hooks with TypeScript, strict action types, generic and restricting props, polymorphic components and more.
 
 ### :gear: My Skills: 
 :white_check_mark: Language:  
