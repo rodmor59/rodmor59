@@ -9,7 +9,8 @@ Above all, I prioritize continuously improving the codebases I work on, looking 
 ### :rocket: Check Out My Repos:
 * [Node Express REST-API Demo](https://github.com/rodmor59/node-express-rest-api-demo): Starting point for developing Restful APIS with Node and showcasing project structuring and code practices.
 * [Node Express REST-API user authorization microservice](https://github.com/rodmor59/node-express-user-auth-microservice): A complete range of features for handling user access, such as registration, login, user profile modification and removal, authorization verifications, and password recovery.
-* [React TypeScript Demo](https://github.com/rodmor59/react-typescript-demo): Set of React components that demonstrates TypeScript features, including basic and advanced typing, event and style props, React hooks with TypeScript, strict action types, generic and restricting props, polymorphic components and more.
+* [React TypeScript Demo](https://github.com/rodmor59/react-typescript-demo): Set of React components that demonstrates TypeScript features, including primary and advanced typing, event and style props, React hooks with TypeScript, strict action types, generic and restricting props, polymorphic components and more.
+* [SQL and Transact-SQL Demo](https://github.com/rodmor59/sql-tsql-demo): Set of SQL and Transact-SQL scripts that describe and demonstrate significant functionalities of the SQL programming language, including selecting data, joining tables, combining results, aggregating data, subqueries, views, table-valued and derived tables, grouping, inserting, updating and more.
 
 ### :gear: My Skills: 
 :white_check_mark: Language:  
